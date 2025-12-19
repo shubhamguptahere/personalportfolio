@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/personalportfolio/static/css/main.cb29964a.css",
-    "main.js": "/personalportfolio/static/js/main.b5b247d2.js",
+    "main.css": "/personalportfolio/static/css/main.13d0957b.css",
+    "main.js": "/personalportfolio/static/js/main.45945c62.js",
     "static/js/453.41811d64.chunk.js": "/personalportfolio/static/js/453.41811d64.chunk.js",
-    "static/media/profile_picture.png": "/personalportfolio/static/media/profile_picture.a442a0eb157df0ada8c6.png",
+    "static/media/1.png": "/personalportfolio/static/media/1.10317c400ec389069427.png",
+    "static/media/2.png": "/personalportfolio/static/media/2.85cdd0645dabd35f50ca.png",
+    "static/media/5_1.png": "/personalportfolio/static/media/5_1.9113b80442c5c532cb09.png",
+    "static/media/6.png": "/personalportfolio/static/media/6.4c007d22a435d79d0f5e.png",
+    "static/media/9_2.png": "/personalportfolio/static/media/9_2.602f191fa659566b0604.png",
+    "static/media/4.png": "/personalportfolio/static/media/4.42e50c25613fc230152d.png",
+    "static/media/7.png": "/personalportfolio/static/media/7.851f67a11508e1811ea1.png",
+    "static/media/pi_2.webp": "/personalportfolio/static/media/pi_2.74927e1e99627ab96b9a.webp",
+    "static/media/3.png": "/personalportfolio/static/media/3.5f5def8bdbf7252b6298.png",
+    "static/media/johndeere.png": "/personalportfolio/static/media/johndeere.df5205e25ffcbd88c38e.png",
     "index.html": "/personalportfolio/index.html",
-    "main.cb29964a.css.map": "/personalportfolio/static/css/main.cb29964a.css.map",
-    "main.b5b247d2.js.map": "/personalportfolio/static/js/main.b5b247d2.js.map",
+    "main.13d0957b.css.map": "/personalportfolio/static/css/main.13d0957b.css.map",
+    "main.45945c62.js.map": "/personalportfolio/static/js/main.45945c62.js.map",
     "453.41811d64.chunk.js.map": "/personalportfolio/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb29964a.css",
-    "static/js/main.b5b247d2.js"
+    "static/css/main.13d0957b.css",
+    "static/js/main.45945c62.js"
   ]
 }
